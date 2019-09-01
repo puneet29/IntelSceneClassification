@@ -1,6 +1,6 @@
 # Intel Scene Classification Challenge
 
-The problem statement is available on [analytics vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/). The problem is to classify scene depicted in the image. An example is given below
+The problem statement is available on [analytics vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/). The problem is to classify scene depicted in the image. Try out the jupyter notebook [here](https://colab.research.google.com/github/puneet29/IntelSceneClassification/blob/master/IntelImageClassification.ipynb). An example is given below
 
 ![Example image](example.png)
 
