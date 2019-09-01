@@ -6,7 +6,16 @@ The problem statement is available on [analytics vidhya](https://datahack.analyt
 
 ## Download the pretrained model
 
-Download the pretrained model from [this link](https://drive.google.com/open?id=1Q6e9wwovM0cACbiINI2crL9rgcbPtiSf). I have used RESNET-50 architecture and added two fully-connected layers at the end of the architecture.
+Download the pretrained model from [this google drive link](https://drive.google.com/open?id=1Q6e9wwovM0cACbiINI2crL9rgcbPtiSf) or download from the repository itself and paste it in the repo folder. You don't need to download the model if you use the given setup instructions. I have used RESNET-50 architecture and added two fully-connected layers at the end of the architecture.
+
+### Setup
+
+- Clone the repo.
+- Run:
+  ```bash
+  pip install -r requirements.txt
+  python3 setup.py
+  ```
 
 ## Key step
 
