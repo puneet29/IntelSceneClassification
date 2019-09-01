@@ -1,0 +1,9 @@
+torch
+torchvision
+requests
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+Pillow
