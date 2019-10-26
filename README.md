@@ -6,7 +6,7 @@ The problem statement is available on [analytics vidhya](https://datahack.analyt
 
 ## Download the pretrained model
 
-Download the pretrained model from [this google drive link](https://drive.google.com/open?id=1uSTt4ECI1_BX5faMbOZ9-C7J3Vm33Mmj) and paste it in the repo folder. I have used RESNET-50 and DENSENET-161 architecture and added two fully-connected layers at the end of the architecture.
+Download the pretrained model from [this google drive link](https://drive.google.com/open?id=1YQ4ZDXVb216DwZOcJ2sbLXYSQFwiHLee) and paste it in the repo folder. I have used RESNET-50 and DENSENET-161 architecture and added two fully-connected layers at the end of the architecture.
 
 RESNET is used to clean out the dataset, while the DENSENET is used to train on the final cleansed dataset.
 
